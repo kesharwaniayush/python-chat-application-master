@@ -16,7 +16,7 @@ In order to run the python script, your system must have the following programs/
 ## Server Code
 ```
 # Program to accept client request
-# Author @inforkgodara
+# Author @kesharwaniayush
 
 import socket
 
@@ -46,7 +46,7 @@ while 1:
 ## Client Code
 ```
 # Program to send request to the server
-# Author @inforkgodara
+# Author @kesharwaniayush
 
 import socket
 
